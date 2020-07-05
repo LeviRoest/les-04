@@ -1,0 +1,13 @@
+body{
+    text-align: center !important;
+    display: inline-block;
+}
+#Image{
+    Margin: 60px;
+}
+.slash{
+    display: block;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 25px;
+}
